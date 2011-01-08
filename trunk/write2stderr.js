@@ -1,0 +1,1 @@
+WScript.StdErr.WriteLine( WScript.Arguments(0) );
